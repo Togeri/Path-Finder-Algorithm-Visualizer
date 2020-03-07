@@ -1,0 +1,118 @@
+/*
+#navbar {
+    height: 125px;
+    width: 80%;
+    border: 10px;
+    border-color: black;
+    font-size: 25px;
+    background-color: blanchedalmond;
+    margin-left: 10%;
+    text-align: center;
+}
+*/
+
+
+#dropdownUploadFile {
+    display: none !important;
+}
+
+.navbar-elements-section {
+    background-color: indigo;
+    height: 40%;
+}
+
+
+.navbar-element {
+    display: inline-block;
+    color: ivory;
+    border-right: solid ivory ;
+    height: 30%;
+    background-color: transparent;
+    width: 10%;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 2rem !important;
+    padding-left: 2rem !important;
+    cursor: pointer;
+}
+
+#navbar-title {
+    margin-right: 2.5%;
+}
+
+#runButton { 
+    color: #212529;
+}
+
+
+#grid {
+    margin: 50px;
+    text-align: center;
+}
+
+.navbar-active {
+  color: #ffc107;
+  text-decoration-line: underline !important;
+  text-decoration-style: solid !important;
+  text-decoration-color: #ffc107 !important;
+  text-decoration-thickness: 4px !important;
+}
+
+.node {
+    /*padding: 10px 10px;*/
+    /*height: 50px;
+    width: 50px;*/
+    width: 24px;
+    height: 24px;
+    outline: 1px solid #9adaed;
+    /*font-size: 0pxS;*/
+    display: inline-block;
+}
+
+.node.visitedColor1 {
+    background-color: blueviolet;
+    /* transition: background-color, 2s; */
+}
+
+.node.pathNode {
+    background-color: #ffde7a;
+    /* transition: background-color, 1s; */
+}
+
+
+#startPoint {
+    width: 24px;
+    height: 24px;
+    color: seagreen;
+    cursor: pointer;
+}
+
+
+#endPoint {
+    width: 24px;
+    height: 24px;
+    color: rgb(231, 84, 58);
+    cursor: pointer;
+}
+
+.holded {
+    border: solid yellow 1px;
+}
+
+.invisible {
+    display: none;
+}
+
+.hovered { 
+    background-color: #80808038;
+}
+
+.wall {
+    background-color: #404142;
+}
+
+
+
+
+
