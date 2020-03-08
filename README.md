@@ -6,6 +6,6 @@ Quick Note: At the moment, the best way you can play around with it is to set up
 
 A quick way to do so:
 
-1. Instal Python
+1. Install Python
 2. Run the following command: python3 -m http.server 
 3. Access the mounted server address on your web browser (by default, it should be *localhost:8000*)
