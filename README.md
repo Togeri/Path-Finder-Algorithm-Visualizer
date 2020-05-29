@@ -2,7 +2,7 @@
 
 This is a humble attempt to create and visualize how different pathfinding algorithms work.
 
-**You can access the app by clicking [here](https://togeri.github.io/Path-Finder-Algorithm-Visualizer/)**
+**You can access the app by clicking :point_right: [here](https://togeri.github.io/Path-Finder-Algorithm-Visualizer/)** :point_left:
 
 ## How it Works
 
