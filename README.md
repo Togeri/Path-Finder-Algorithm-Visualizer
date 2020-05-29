@@ -4,6 +4,8 @@ This is a humble attempt to create and visualize how different pathfinding algor
 
 **You can access the app by clicking :point_right: [here](https://togeri.github.io/Path-Finder-Algorithm-Visualizer/)** :point_left:
 
+**Disclaimer**: this is still a work in progress. Expect some buggy behaviour while I build things up.
+
 ## How it Works
 
 There are several Pathfinding Algorithms implemented in the app. You can set a situation, choose an algorithm and visualize how it gets solved and find a path from the start node to the end node, if there's any path available.
